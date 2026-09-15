@@ -111,6 +111,8 @@ if __name__ == "__main__":
 
 Um conto interessante. Tradução livre de [Factory Factory Factory](https://notes.zachmanson.com/factory-factory-factory/)
 
+---
+
 Vamos fingir que decidi construir uma estante porta-temperos.
 
 Já fiz pequenos projetos de marcenaria antes e acho que tenho uma boa ideia do que vou precisar: um pouco de madeira e algumas ferramentas básicas — uma trena, um serrote, um nível e um martelo.
@@ -186,6 +188,8 @@ Surpreso com essa novidade, pergunto o motivo.
 "Muito bem!!"
 
 "Isso vem com manual, né?"
+
+---
 
 </details>
 
